@@ -1,0 +1,27 @@
+.navgeneral{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: cadetblue;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+}
+
+li {
+    list-style: none;
+    color: black;
+    font-size: 20px;
+}
